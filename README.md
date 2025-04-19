@@ -1,1 +1,13 @@
-# divu
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flappy Bird</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="gameCanvas" width="400" height="600"></canvas>
+  <script src="script.js"></script>
+</body>
+</html>
+
